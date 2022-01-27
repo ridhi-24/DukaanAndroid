@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/person"
+        android:title="Home"
+        android:icon="@drawable/ic_vector"/>
+    <item
+        android:id="@+id/home"
+        android:title="Orders"
+        android:backgroundTint="#000000"
+        android:tint="#000000"
+
+        android:icon="@drawable/ic_inactive"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Products"
+        android:icon="@drawable/product"/>
+ <item
+        android:id="@+id/manage"
+        android:title="Manage"
+        android:icon="@drawable/ic_combined_shape"/>
+ <item
+        android:id="@+id/account"
+        android:title="Accounts"
+        android:icon="@drawable/profile"/>
+
+</menu>

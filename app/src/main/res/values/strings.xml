@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DukaanAndroid</string>
+    <string name="market_name">Mano Super Market</string>
+    <string name="share">Share More to Earn More </string>
+    <string name="webstoreshare">Share your own web store’s link on Social Media to attract more customers daily.</string>
+    <string name="link"><u>mydukaan.io/mano</u></string>
+    <string name="custom_domain">Get your own custom domain</string>
+    <string name="Share">Share</string>
+    <string name="Overview">Overview</string>
+    <string name="last_week">Last week</string>
+    <string name="Active_Orders">Active Orders</string>
+    <string name="view_all">View All</string>
+</resources>
